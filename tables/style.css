@@ -1,0 +1,86 @@
+.head1{
+    background-color: dimgrey;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    
+
+}
+
+.t1{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 80%;
+
+}
+.t1, tr, th{
+    background-color: midnightblue;
+    color: white;
+    border: 1px solid white;
+    border-collapse: collapse;
+    
+}
+.main{
+    background-color: tan;
+}
+.teal{
+    background-color: saddlebrown;
+}
+.brown{
+    background-color: rgb(87, 64, 0);
+}
+
+.lightbrown{
+    background-color: rgb(124, 91, 0);
+}
+
+.light{
+    background-color: rgb(193 152 91 / 96%);
+}
+td{
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+
+.t2{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 60%;
+}
+
+.grey{
+    background-color: gray;
+}
+.dark{
+    background-color: rgb(30, 34, 39);
+}
+.c1{
+    background-color: rgb(56, 206, 206);
+    font-weight: bold;
+}
+
+.c2{
+    background-color: silver;
+    color:  rgb(56, 206, 206);
+    font-style: italic;
+}
+body{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.head2{
+    color: darkkhaki;
+    font-style: italic;
+}
+.hc1{
+    background-color: royalblue;
+}
+
+.hc2{
+    background-color: #96a9e1;
+}
+.t3{
+    border: 1px solid white;
+}
